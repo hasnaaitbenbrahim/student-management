@@ -19,7 +19,7 @@
 
 ![Delete student](https://github.com/user-attachments/assets/8bd3c378-3212-4edf-981b-83060af08393)
 
------- All Studnets ------
+------ All Students ------
 
 ![All Student](https://github.com/user-attachments/assets/cb5b803c-bd97-456c-bc0c-6ed0e3ae5001)
 
